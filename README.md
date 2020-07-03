@@ -1,2 +1,4 @@
 # scripts
-Scripts to make my life easier or save time on linux. ( + few cool things )
+Scripts & docs to make my life easier or save time on mac/linux.
+
+[Mac OS dev setup](mac_os_setup.md)
